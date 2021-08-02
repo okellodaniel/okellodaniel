@@ -33,6 +33,10 @@
 
 [![Okello's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellodaniel)](https://github.com/okellodaniel/github-readme-stats)
 
+## My workaTime Stats:
+
+[![Okellos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okellodaniel)](https://github.com/okellodaniel/github-readme-stats)
+
 ---
 
 [twitter]: https://twitter.com/OkelloDani

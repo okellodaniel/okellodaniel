@@ -35,7 +35,7 @@
 
 ## My workaTime Stats:
 
-[![Okellos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okellodaniel)](https://github.com/okellodaniel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okellodaniel&langs_count=8)](https://github.com/okellodaniel/github-readme-stats)
 
 ---
 

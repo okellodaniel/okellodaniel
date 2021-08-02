@@ -32,8 +32,6 @@
 
 ---
 
-</details>
-
 [twitter]: https://twitter.com/OkelloDani
 [Sololearn]: https://www.sololearn.com/profile/9590576
 [linkedin]: https://www.linkedin.com/in/okello-daniel-113a3bb4/

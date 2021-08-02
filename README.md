@@ -29,11 +29,11 @@
 <br />
 <br />
 
-## My GitHub Stats:
+### My GitHub Stats:
 
 [![Okello's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellodaniel)](https://github.com/okellodaniel/github-readme-stats)
 
-## My Favs:
+### My Favs:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okellodaniel&langs_count=8)](https://github.com/okellodaniel/github-readme-stats)
 

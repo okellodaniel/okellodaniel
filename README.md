@@ -29,7 +29,7 @@
 <br />
 <br />
 
-## My GitHub Stats;
+## My GitHub Stats:
 
 [![Okello's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellodaniel)](https://github.com/okellodaniel/github-readme-stats)
 

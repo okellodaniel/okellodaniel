@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Asp.net with C#
 - 👯 I’m looking to collaborate with other developers from all over the globe.
 - 🥅 My main goal is to work hand in hand with other developers to create tech based solutions to solve global problems
-- ⚡ Fun fact: I am a gamer, former Ace tier Pubg Mobile
+- ⚡ Fun fact: I am a Gamer
 
 ### Connect with me:
 

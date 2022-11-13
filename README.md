@@ -1,3 +1,6 @@
+## Hi, I am Erica Grundy! 
+</br>
+<ul>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=okellodaniel&theme=dark&hide_title=true&include_all_commits=true"/>
 </div><br>
@@ -7,7 +10,7 @@
 </div>
 <br>
 
-![Daniel Okello Contributions](https://github.com/okellodaniel/okellodaniel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/okellodaniel/okellodaniel/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>

@@ -1,6 +1,21 @@
-## Hi, I am Daniel Okello! 
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+----
+<p><em>Software Craftsman at <a href="http://www.unb.br">Laboremus Uganda</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>
-<ul>
+---
+ ```javascript
+const DanielOkello = {
+  pronouns: "Mr",
+  code: [Python, C#],
+  tools: [.Net, Node, Docker, Azure, AWS],
+  architecture: ["microservices", "MVVM", "Mediatr", "MVC"],
+  techCommunities: {
+                        coorganizer: "CIT",             
+                        mentor: "Refactory Uganda"
+                      },
+ challenge: "I craft game changers every day."
+}
+```
 <div>
   <a href="https://github.com/okellodaniel">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okellodaniel&layout=compact&langs_count=16&theme=dracula"/>

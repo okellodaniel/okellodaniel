@@ -1,10 +1,15 @@
 ## Hi, I am Daniel Okello! 
 </br>
 <ul>
-<div align="center">
+<div>
+  <a href="https://github.com/okellodaniel">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okellodaniel&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=okellodaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+<div align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=okellodaniel&theme=dark&hide_title=true&include_all_commits=true"/>
 </div><br>
-<div align="center">  
+<div align="left">  
 <img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=okellodaniel"> <br><br> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=okellodaniel&margin-w=15&margin-h=15" />
 </div>

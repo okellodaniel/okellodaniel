@@ -14,7 +14,7 @@ const DanielOkello = {
   tools: [.Net, Node, Docker, Azure, AWS],
   architecture: ["microservices", "MVVM", "Mediatr", "MVC"],
   techCommunities: {
-                        coorganizer: "CIT",             
+                        Alumni: "CIT",             
                         mentor: "Refactory Uganda"
                       },
  challenge: "I craft game changers every day."

@@ -36,8 +36,6 @@ const DanielOkello = {
 
  ***
  
-![Snake animation](https://github.com/okellodaniel/okellodaniel/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/okellodaniel/count.svg" />

@@ -10,11 +10,11 @@
 ```javascript
 const DanielOkello = {
   pronouns: "Mr",
-  code: [Python, C#],
-  tools: [.Net, Node, Docker, Azure, AWS],
+  code: ["Python", "C#","Javascript"],
+  tools: [".Net", "Node", "Docker", "Azure", "AWS"],
   architecture: ["microservices", "MVVM", "Mediatr", "MVC"],
   techCommunities: {
-                        Alumni: "CIT",             
+                        Alumni: "CIT", "ALX-Udacity", "Refactory Uganda",             
                         mentor: "Refactory Uganda"
                       },
  challenge: "I craft game changers every day."

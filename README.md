@@ -11,32 +11,12 @@
 const DanielOkello = {
   pronouns: "Mr",
   code: ["Python", "C#"],
-  tools: [".Net", "Node", "Docker", "Azure", "AWS"],
+  tools: [".Net", "Node", "Docker", "Azure", "AWS", "GCP],
   architecture: ["microservices", "MVVM", "Mediatr", "MVC"],
   techCommunities: {
-                       " Alumni": "CIT", "ALX-Udacity", "Refactory Uganda", "Coursera",       
+                       " Alumni": "CIT", "ALX-Udacity", "Refactory Uganda", "Coursera", "Data ZoomCamp"       
                         "mentor": "Refactory Uganda"
                       },
  challenge: "I craft game changers every day."
 }
 ```
-***
-<div>
-  <a href="https://github.com/okellodaniel">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okellodaniel&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=okellodaniel&theme=dark&hide_title=true&include_all_commits=true"/>
-</div><br>
-<div align="left">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=okellodaniel"> <br><br> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=okellodaniel&margin-w=15&margin-h=15" />
-</div>
-<br>
-
- ***
- 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/okellodaniel/count.svg" />
-</p>

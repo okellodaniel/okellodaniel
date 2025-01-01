@@ -2,4 +2,4 @@
 
 <p><em>I keep coding</em></p>
 
-<p>(My Portfolio)[https://danielokello.fly.dev]</p>
+<p>(https://danielokello.fly.dev)[My Portfolio]</p>

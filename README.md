@@ -1,12 +1,15 @@
 <div align="center">
   <h1>👋 Hello, I'm Daniel Okello</h1>
-  <p><em>Full Stack Developer | Problem Solver | Tech Enthusiast</em></p>
+  <p><em>Software Craftsman | Problem Solver | Tech Enthusiast</em></p>
 </div>
 
 ## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Mage AI](https://img.shields.io/badge/-Mage%20AI-FF5733?style=flat-square)
 
 ## 🔭 Current Focus
 - Building scalable web applications
